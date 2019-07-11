@@ -44,7 +44,7 @@ export default {
   },
   async mounted() {
     let response = await this.getResponse(this.query);
-    this.items = response.items.slice(0, 6);
+    this.items = response.items.slice(0, 10);
   },
 }
 </script>

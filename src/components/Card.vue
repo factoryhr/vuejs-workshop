@@ -5,8 +5,8 @@
         <img :src="data.owner.avatar_url" alt="Avatar" style="width:300px;height:300px;">
       </div>
       <div class="flip-card-back">
-        <p>{{data.name}}</p> 
-        <a :href="data.clone_url" target="_blank">repo</a> 
+        <p>{{data.name}}</p>
+        <a :href="data.clone_url" target="_blank">repo</a>
         <p>{{data.owner.login}}</p>
       </div>
     </div>

@@ -1,5 +1,5 @@
 {
-  "name": "js-workshop",
+  "name": "vue.js-workshop",
   "version": "1.0.0",
   "description": "Simple showcase application",
   "scripts": {
@@ -12,7 +12,7 @@
     "sass",
     "babel"
   ],
-  "author": "Egredžija Alen",
+  "author": "Petric Marko",
   "license": "ISC",
   "dependencies": {
     "npm": "^6.1.0",
